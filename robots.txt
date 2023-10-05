@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://SanghyeokSon.github.io/al-folio/sitemap.xml
+Sitemap: https://SanghyeokSon.github.io/blog/sitemap.xml
